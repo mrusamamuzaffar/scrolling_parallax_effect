@@ -13,5 +13,5 @@ This code snippet shows the scrolling parallax effect. A very smooth, intersting
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/204222254-1034b72a-2b3d-4a45-81f6-859e3714a278.gif" >
+    src="https://user-images.githubusercontent.com/101565812/204525355-4aa14c9d-d10b-4b89-8c06-5c93919c023f.gif">
 </p>
